@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "Welcome to this Educational Blog!"
+date: 2020-11-30
 ---
 
 # First Post!
